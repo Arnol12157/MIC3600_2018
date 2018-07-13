@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 7061c5d5ddb9780408f306c2c5533168
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boulder01
+    100002: Boulder02
+    100004: //RootNode
+    100006: Boulder03
+    100008: Boulder04
+    100010: Boulder05
+    100012: Boulder06
+    100014: Boulder07
+    100016: Boulder08
+    400000: Boulder01
+    400002: Boulder02
+    400004: //RootNode
+    400006: Boulder03
+    400008: Boulder04
+    400010: Boulder05
+    400012: Boulder06
+    400014: Boulder07
+    400016: Boulder08
+    2100000: Boulder08
+    2100002: Boulder07
+    2100004: Boulder06
+    2100006: Boulder05
+    2100008: Boulder04
+    2100010: Boulder03
+    2100012: Boulder02
+    2100014: Boulder01__Untitled
+    2300000: Boulder01
+    2300002: Boulder02
+    2300004: Boulder03
+    2300006: Boulder04
+    2300008: Boulder05
+    2300010: Boulder06
+    2300012: Boulder07
+    2300014: Boulder08
+    3300000: Boulder01
+    3300002: Boulder02
+    3300004: Boulder03
+    3300006: Boulder04
+    3300008: Boulder05
+    3300010: Boulder06
+    3300012: Boulder07
+    3300014: Boulder08
+    4300000: Boulder08
+    4300002: Boulder07
+    4300004: Boulder06
+    4300006: Boulder05
+    4300008: Boulder04
+    4300010: Boulder03
+    4300012: Boulder02
+    4300014: Boulder01
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder01__Untitled
+    second: {fileID: 2100000, guid: 2eff93b62f32ba24e9aba03c5653e755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder02
+    second: {fileID: 2100000, guid: a516dbd612d592646b7e70068bc39007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder03
+    second: {fileID: 2100000, guid: f01356555daff2e4692e83772a47fab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder04
+    second: {fileID: 2100000, guid: 831ccdae5a084384aba246139e490057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder05
+    second: {fileID: 2100000, guid: c23c04f6e10b15f47ba29ce334094957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder06
+    second: {fileID: 2100000, guid: b21c2018fbedafe4398b99ad0a548642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder07
+    second: {fileID: 2100000, guid: a2ef341ca357cba4cbc984d5f4bbe48e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boulder08
+    second: {fileID: 2100000, guid: a51f6c607fd177541a4a28acea8bb88b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
