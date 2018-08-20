@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <gestures>
-  <gesture name="one">
+  <gesture name="1">
     <point x="-33.9816" y="5.665161" />
     <point x="-39.04443" y="-0.147522" />
     <point x="-43.495" y="-6.488464" />
@@ -66,7 +66,7 @@
     <point x="142.611" y="137.7556" />
     <point x="148.1506" y="143.0662" />
   </gesture>
-  <gesture name="two">
+  <gesture name="2">
     <point x="-89.56775" y="5.785217" />
     <point x="-93.40674" y="-3.265686" />
     <point x="-94.66144" y="-13.01727" />
@@ -132,7 +132,7 @@
     <point x="147.4546" y="25.56073" />
     <point x="154.5771" y="18.70123" />
   </gesture>
-  <gesture name="three">
+  <gesture name="3">
     <point x="-122.8878" y="0.3313599" />
     <point x="-130.5459" y="-5.240417" />
     <point x="-137.0004" y="-12.66693" />
@@ -198,7 +198,7 @@
     <point x="23.56351" y="148.1679" />
     <point x="14.81281" y="143.9227" />
   </gesture>
-  <gesture name="four">
+  <gesture name="4">
     <point x="-143.2496" y="-4.68811" />
     <point x="-135.7685" y="3.821167" />
     <point x="-128.0243" y="10.85938" />
@@ -264,7 +264,7 @@
     <point x="98.49493" y="-81.62646" />
     <point x="106.7503" y="-81.40393" />
   </gesture>
-  <gesture name="five">
+  <gesture name="5">
     <point x="-132.0104" y="11.85352" />
     <point x="-124.9881" y="21.34729" />
     <point x="-117.9657" y="30.84113" />
@@ -330,7 +330,7 @@
     <point x="101.7676" y="-2.190186" />
     <point x="95.19302" y="7.560425" />
   </gesture>
-  <gesture name="six">
+  <gesture name="6">
     <point x="-153.198" y="-6.327881" />
     <point x="-148.5139" y="9.717773" />
     <point x="-142.0873" y="20.97083" />
@@ -396,7 +396,7 @@
     <point x="19.104" y="75.72961" />
     <point x="26.60983" y="71.80444" />
   </gesture>
-  <gesture name="seven">
+  <gesture name="7">
     <point x="-158.275" y="-0.8596802" />
     <point x="-151.043" y="-4.65448" />
     <point x="-143.8109" y="-8.449341" />
@@ -462,7 +462,7 @@
     <point x="91.72498" y="146.1907" />
     <point x="91.46393" y="152.4447" />
   </gesture>
-  <gesture name="eight">
+  <gesture name="8">
     <point x="-113.8137" y="0.4783936" />
     <point x="-119.8856" y="12.88965" />
     <point x="-120.043" y="27.41504" />
@@ -528,7 +528,7 @@
     <point x="-81.04254" y="4.28418" />
     <point x="-92.9567" y="3.861206" />
   </gesture>
-  <gesture name="nine">
+  <gesture name="9">
     <point x="-111.24" y="2.466187" />
     <point x="-113.4001" y="16.0437" />
     <point x="-113.5329" y="29.84949" />
@@ -594,7 +594,7 @@
     <point x="135.0078" y="9.614624" />
     <point x="131.3168" y="22.59656" />
   </gesture>
-  <gesture name="zero">
+  <gesture name="0">
     <point x="-110.4916" y="0.9639893" />
     <point x="-116.6272" y="14.64905" />
     <point x="-117.5069" y="32.25488" />

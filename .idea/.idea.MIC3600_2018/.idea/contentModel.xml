@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\strix\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_MIC3600_2018.-1438795767.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\MIC3600_2018" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Extra" t="Include">
+          <e p="PigeonCoopToolkit" t="Include">
+            <e p="__Effects (Trails) Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AlwaysForward.cs" t="Include" />
+                <e p="ConstForce.cs" t="Include" />
+                <e p="DestroyAfterTime.cs" t="Include" />
+                <e p="FPSController.cs" t="Include" />
+                <e p="FPSWeaponTrigger.cs" t="Include" />
+                <e p="MouseFollower.cs" t="Include" />
+                <e p="Orbiter.cs" t="Include" />
+                <e p="PitchShifter.cs" t="Include" />
+                <e p="TankAlwaysForward.cs" t="Include" />
+                <e p="TankController.cs" t="Include" />
+                <e p="TankProjectile.cs" t="Include" />
+                <e p="TankTranslator.cs" t="Include" />
+                <e p="TankWeaponController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="__SharedDemoAssets" t="Include">
+              <e p="_Shaders" t="Include">
+                <e p="DiffuseColorMask.shader" t="Include" />
+                <e p="Unlit Transparent Color.shader" t="Include" />
+              </e>
+              <e p="a-104 Rifle" t="Include">
+                <e p="a-104 Rifle License.txt" t="Include" />
+              </e>
+              <e p="Sword" t="Include">
+                <e p="sword License.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Effects" t="Include">
+              <e p="Trails" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ExecutionOrderSetter.cs" t="Include" />
+                  <e p="InfoDialogueSpawner.cs" t="Include" />
+                  <e p="SmokePlumeEditor.cs" t="Include" />
+                  <e p="SmokeTrailEditor.cs" t="Include" />
+                  <e p="SmoothTrailEditor.cs" t="Include" />
+                  <e p="TrailEditor.cs" t="Include" />
+                  <e p="TrailEditor_Base.cs" t="Include" />
+                  <e p="TrailPreviewUtillity.cs" t="Include" />
+                </e>
+                <e p="SmokePlume.cs" t="Include" />
+                <e p="SmokeTrail.cs" t="Include" />
+                <e p="SmoothTrail.cs" t="Include" />
+                <e p="Trail.cs" t="Include" />
+                <e p="TrailRenderer_Base.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shared" t="Include">
+              <e p="Generic" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="InfoDialogue.cs" t="Include" />
+                </e>
+                <e p="VersionInformation.cs" t="Include" />
+              </e>
+              <e p="Utillities" t="Include">
+                <e p="CircularBuffer.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="RangePropertyDrawer.cs" t="Include" />
+                </e>
+                <e p="GizmosExtra.cs" t="Include" />
+                <e p="Range.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="GestureRecognizer" t="Include">
+          <e p="Resources" t="Include">
+            <e p="alphabet.xml" t="Include" />
+            <e p="multistroke_shapes.xml" t="Include" />
+            <e p="numbers.xml" t="Include" />
+            <e p="shapes.xml" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Demo" t="Include">
+              <e p="GestureCapturePoints.cs" t="Include" />
+              <e p="GestureDemoEvent.cs" t="Include" />
+              <e p="MultiStrokeCapturePoints.cs" t="Include" />
+              <e p="MultiStrokeDemoEvent.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="GestureBehaviourInspector.cs" t="Include" />
+              <e p="MultiStrokeBehaviourInspector.cs" t="Include" />
+            </e>
+            <e p="GestureRecognizer" t="Include">
+              <e p="Gesture.cs" t="Include" />
+              <e p="GestureBehaviour.cs" t="Include" />
+              <e p="GestureLibrary.cs" t="Include" />
+            </e>
+            <e p="MultiStrokeRecognizer" t="Include">
+              <e p="MultiStroke.cs" t="Include" />
+              <e p="MultiStrokeBehaviour.cs" t="Include" />
+              <e p="MultiStrokeLibrary.cs" t="Include" />
+              <e p="MultiStrokePoint.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="FileTools.cs" t="Include" />
+              <e p="Result.cs" t="Include" />
+              <e p="Utility.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CharacterController.cs" t="Include" />
+          <e p="GestureController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="MIC3600_2018.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
