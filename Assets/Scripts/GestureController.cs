@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using System.Collections;
 using GestureRecognizer;
 using UnityEngine.UI;
@@ -6,6 +7,7 @@ using UnityEngine.UI;
 public class GestureController : MonoBehaviour {
 
     public Text messageArea;
+    public String gestureName;
      
     void OnEnable() {
         GestureBehaviour.OnRecognition += OnGestureRecognition;
@@ -33,5 +35,6 @@ public class GestureController : MonoBehaviour {
     /// <param name="text">Text to show</param>
     public void SetNumber(string text) {
         messageArea.text = text;
+        gestureName = text;
     }
 }

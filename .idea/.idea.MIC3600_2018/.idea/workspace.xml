@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21aca47-1ead-429e-ad85-9f4485787865" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml" afterPath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Character/CharacterController.controller" afterPath="$PROJECT_DIR$/Assets/Animations/Character/CharacterController.controller" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/CharacterSteps.mat" afterPath="$PROJECT_DIR$/Assets/Materials/CharacterSteps.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/Cueva.mat" afterPath="$PROJECT_DIR$/Assets/Models/Cueva/Cueva.mat" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/demo.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/demo.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GestureController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,35 +26,66 @@
       <file leaf-file-name="GestureController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+            <state relative-caret-position="495">
+              <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding>
-                <marker date="1531972997181" expanded="true" signature="6:91" ph="..." />
-                <marker date="1531972997181" expanded="true" signature="140:867" ph="{...}" />
-                <marker date="1531972997181" expanded="true" signature="198:269" ph="{...}" />
-                <marker date="1531972997181" expanded="true" signature="292:363" ph="{...}" />
-                <marker date="1531972997181" expanded="true" signature="386:457" ph="{...}" />
-                <marker date="1531972997181" expanded="true" signature="463:599" ph="/// The method to be called on recognition event ... " />
-                <marker date="1531972997181" expanded="true" signature="640:674" ph="{...}" />
-                <marker date="1531972997181" expanded="true" signature="680:785" ph="/// Shows the number ... " />
-                <marker date="1531972997181" expanded="true" signature="825:865" ph="{...}" />
+                <marker date="1535578578387" expanded="true" signature="6:105" ph="..." />
+                <marker date="1535578578387" expanded="true" signature="154:940" ph="{...}" />
+                <marker date="1535578578387" expanded="true" signature="243:314" ph="{...}" />
+                <marker date="1535578578387" expanded="true" signature="337:408" ph="{...}" />
+                <marker date="1535578578387" expanded="true" signature="431:502" ph="{...}" />
+                <marker date="1535578578387" expanded="true" signature="508:644" ph="/// The method to be called on recognition event ... " />
+                <marker date="1535578578387" expanded="true" signature="685:719" ph="{...}" />
+                <marker date="1535578578387" expanded="true" signature="725:830" ph="/// Shows the number ... " />
+                <marker date="1535578578387" expanded="true" signature="870:938" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharacterController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CharacterController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="426">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
-                <marker date="1534131087538" expanded="true" signature="6:114" ph="..." />
-                <marker date="1534131087538" expanded="true" signature="164:641" ph="{...}" />
-                <marker date="1534131087538" expanded="true" signature="310:368" ph="{...}" />
-                <marker date="1534131087538" expanded="true" signature="426:558" ph="{...}" />
-                <marker date="1534131087538" expanded="true" signature="457:552" ph="{...}" />
-                <marker date="1534131087538" expanded="true" signature="590:639" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="6:114" ph="..." />
+                <marker date="1535514830051" expanded="true" signature="164:1613" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="467:559" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="617:1389" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="648:835" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="975:1034" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="1067:1189" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="1293:1383" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="1421:1495" ph="{...}" />
+                <marker date="1535514830051" expanded="true" signature="1530:1611" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="80" column="54" lean-forward="false" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
+              <folding>
+                <marker date="1535579113323" expanded="true" signature="6:114" ph="..." />
+                <marker date="1535579113323" expanded="true" signature="160:2476" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="189:251" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="274:305" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="940:1656" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="983:1056" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1103:1180" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1225:1298" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1348:1382" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1439:1473" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1532:1566" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1619:1653" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1710:2026" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="1880:2023" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="2055:2388" ph="{...}" />
+                <marker date="1535579113323" expanded="true" signature="2430:2474" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -59,14 +99,16 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureDemoEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathController.cs" />
       </list>
     </option>
   </component>
@@ -145,11 +187,13 @@
       <updated>1531972310917</updated>
       <workItem from="1531972312199" duration="1290000" />
       <workItem from="1534130651668" duration="2188000" />
+      <workItem from="1535492763240" duration="605000" />
+      <workItem from="1535512991247" duration="7213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3478000" />
+    <option name="totallyTimeSpent" value="11296000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,16 +211,16 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17862372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -199,18 +243,92 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <marker date="1535578578387" expanded="true" signature="6:105" ph="..." />
+            <marker date="1535578578387" expanded="true" signature="154:940" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="243:314" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="337:408" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="431:502" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="508:644" ph="/// The method to be called on recognition event ... " />
+            <marker date="1535578578387" expanded="true" signature="685:719" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="725:830" ph="/// Shows the number ... " />
+            <marker date="1535578578387" expanded="true" signature="870:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <marker date="1535514830051" expanded="true" signature="6:114" ph="..." />
+            <marker date="1535514830051" expanded="true" signature="164:1613" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="467:559" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="617:1389" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="648:835" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="975:1034" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1067:1189" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1293:1383" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1421:1495" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1530:1611" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <marker date="1535578578387" expanded="true" signature="6:105" ph="..." />
+            <marker date="1535578578387" expanded="true" signature="154:940" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="243:314" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="337:408" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="431:502" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="508:644" ph="/// The method to be called on recognition event ... " />
+            <marker date="1535578578387" expanded="true" signature="685:719" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="725:830" ph="/// Shows the number ... " />
+            <marker date="1535578578387" expanded="true" signature="870:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <marker date="1535514830051" expanded="true" signature="6:114" ph="..." />
+            <marker date="1535514830051" expanded="true" signature="164:1613" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="467:559" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="617:1389" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="648:835" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="975:1034" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1067:1189" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1293:1383" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1421:1495" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1530:1611" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1531972997181" expanded="true" signature="6:91" ph="..." />
-            <marker date="1531972997181" expanded="true" signature="140:867" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="198:269" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="292:363" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="386:457" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="463:599" ph="/// The method to be called on recognition event ... " />
-            <marker date="1531972997181" expanded="true" signature="640:674" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="680:785" ph="/// Shows the number ... " />
-            <marker date="1531972997181" expanded="true" signature="825:865" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="6:105" ph="..." />
+            <marker date="1535578578387" expanded="true" signature="154:940" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="243:314" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="337:408" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="431:502" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="508:644" ph="/// The method to be called on recognition event ... " />
+            <marker date="1535578578387" expanded="true" signature="685:719" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="725:830" ph="/// Shows the number ... " />
+            <marker date="1535578578387" expanded="true" signature="870:938" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -229,35 +347,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        <state relative-caret-position="426">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <marker date="1531972997181" expanded="true" signature="6:91" ph="..." />
-            <marker date="1531972997181" expanded="true" signature="140:867" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="198:269" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="292:363" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="386:457" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="463:599" ph="/// The method to be called on recognition event ... " />
-            <marker date="1531972997181" expanded="true" signature="640:674" ph="{...}" />
-            <marker date="1531972997181" expanded="true" signature="680:785" ph="/// Shows the number ... " />
-            <marker date="1531972997181" expanded="true" signature="825:865" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="6:114" ph="..." />
+            <marker date="1535514830051" expanded="true" signature="164:1613" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="467:559" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="617:1389" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="648:835" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="975:1034" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1067:1189" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1293:1383" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1421:1495" ph="{...}" />
+            <marker date="1535514830051" expanded="true" signature="1530:1611" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="495">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
           <folding>
-            <marker date="1534131087538" expanded="true" signature="6:114" ph="..." />
-            <marker date="1534131087538" expanded="true" signature="164:641" ph="{...}" />
-            <marker date="1534131087538" expanded="true" signature="310:368" ph="{...}" />
-            <marker date="1534131087538" expanded="true" signature="426:558" ph="{...}" />
-            <marker date="1534131087538" expanded="true" signature="457:552" ph="{...}" />
-            <marker date="1534131087538" expanded="true" signature="590:639" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="6:105" ph="..." />
+            <marker date="1535578578387" expanded="true" signature="154:940" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="243:314" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="337:408" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="431:502" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="508:644" ph="/// The method to be called on recognition event ... " />
+            <marker date="1535578578387" expanded="true" signature="685:719" ph="{...}" />
+            <marker date="1535578578387" expanded="true" signature="725:830" ph="/// Shows the number ... " />
+            <marker date="1535578578387" expanded="true" signature="870:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="80" column="54" lean-forward="false" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
+          <folding>
+            <marker date="1535579113323" expanded="true" signature="6:114" ph="..." />
+            <marker date="1535579113323" expanded="true" signature="160:2476" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="189:251" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="274:305" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="940:1656" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="983:1056" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1103:1180" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1225:1298" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1348:1382" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1439:1473" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1532:1566" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1619:1653" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1710:2026" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="1880:2023" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="2055:2388" ph="{...}" />
+            <marker date="1535579113323" expanded="true" signature="2430:2474" ph="{...}" />
           </folding>
         </state>
       </provider>
