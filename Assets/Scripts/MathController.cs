@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using EZCameraShake;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -39,9 +40,16 @@ public class MathController : MonoBehaviour {
 	public Text firstValueText;
 	public Text secondValueText;
 	public Text resultValueText;
+
+	public float delay;
+	private float auxDelay;
+
+	public bool isFirstOperation = true;
 	
 	// Use this for initialization
-	void Start () {
+	void Start ()
+	{
+		auxDelay = delay;
 		if (currentDificulty == Dificulty.easy)
 		{
 			setRangeValues(minValueEasyDificulty, maxValueEasyDificulty);
@@ -55,16 +63,24 @@ public class MathController : MonoBehaviour {
 
 		if (currentOperation == OperationType.adition)
 		{
-			getAditionOperation();
+			firstValue = "4";
+			secondValue = "2";
+			resultValue = "6";
 		} else if (currentOperation == OperationType.substraction)
 		{
-			getAditionOperation();
+			firstValue = "4";
+			secondValue = "2";
+			resultValue = "6";
 		} else if (currentOperation == OperationType.multiplication)
 		{
-			getAditionOperation();
+			firstValue = "4";
+			secondValue = "2";
+			resultValue = "6";
 		} else if (currentOperation == OperationType.division)
 		{
-			getAditionOperation();
+			firstValue = "4";
+			secondValue = "2";
+			resultValue = "6";
 		}
 	}
 	
@@ -76,10 +92,29 @@ public class MathController : MonoBehaviour {
 		resultValueText.text = resultValue;
 		if (_gestureController.gestureName == secondValue)
 		{
-			Debug.Log("score");
+			if (isFirstOperation)
+			{
+				GameObject[] firstOperationHelpObjects = GameObject.FindGameObjectsWithTag("FirstOperationHelp");
+				foreach (var firstOperationHelpObject in firstOperationHelpObjects)
+				{
+					firstOperationHelpObject.SetActive(false);
+				}
+				isFirstOperation = false;
+			}
+			secondValueText.text = secondValue;
+			auxDelay -= Time.deltaTime;
+			if (auxDelay <= 0)
+			{
+				Debug.Log("score");
+				_gestureController.gestureName = "";
+				_gestureController.messageArea.text = "?";
+				getAditionOperation();
+				auxDelay = delay;
+			}
+		} else if (_gestureController.gestureName != "")
+		{
+			CameraShaker.Instance.ShakeOnce(3, 5, 2, 2);
 			_gestureController.gestureName = "";
-			_gestureController.messageArea.text = "?";
-			getAditionOperation();
 		}
 	}
 

@@ -19,6 +19,7 @@ public class CharacterController : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
+        bGoToTarget = true;
         setRandomCrystalTarget();
     }
 

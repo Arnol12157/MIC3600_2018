@@ -253,7 +253,14 @@ PlayerSettings:
     banner: {fileID: 0}
   androidGamepadSupportLevel: 0
   resolutionDialogBanner: {fileID: 0}
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: 6c4e11dc53aea3a49aa03da026a76d0b, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: Android
     m_Icons:
@@ -727,7 +734,7 @@ PlayerSettings:
   apiCompatibilityLevel: 2
   cloudProjectId: 90ab7488-3398-47a6-aac4-9ff098b2508b
   projectName: MIC3600_2018
-  organizationId: arnol-d640c13f-1cad-4cfa-8ad5-839bfc81bf62
+  organizationId: arnol-6ce812c9-597f-40bb-85c1-3fe6b83e6482
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
