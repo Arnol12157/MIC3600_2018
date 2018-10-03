@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<credits>
+  <credit type="texture" data="logo" data2="" />
+  <credit type="singlecolumn" data="By" data2="" />
+  <credit type="texture" data="logocreditostodogamesbg" data2="" />
+  <credit type="title" data="CREDITS" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="title" data="Producer" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="singlecolumn" data="Arnol Francisco Robles Tintaya" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="title" data="Lead Game Programmer" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="singlecolumn" data="Arnol Francisco Robles Tintaya" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="title" data="Lead Artist" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="singlecolumn" data="Pablo Ernesto Luján Fernández " data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="twocolumns" data="3D Artists" data2="Jesus Kevin Chambi Mamani" />
+  <credit type="space" data="1" data2="" />
+  <credit type="twocolumns" data="" data2="Mijael Ugarte Pabon" />
+  <credit type="space" data="1" data2="" />
+  <credit type="title" data="Special Thanks to" data2="" />
+  <credit type="space" data="1" data2="" />
+  <credit type="texture" data="logogame51" data2="" />
+</credits>

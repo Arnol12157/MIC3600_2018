@@ -7,6 +7,29 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Credits" t="Include">
+          <e p="1_Scripts" t="Include">
+            <e p="Credits.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CreditsEditor.cs" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="CreditLineInstance.cs" t="Include" />
+              <e p="CreditLineInstanceImage.cs" t="Include" />
+              <e p="CreditLineInstanceSingleColumn.cs" t="Include" />
+              <e p="CreditLineInstanceSpace.cs" t="Include" />
+              <e p="CreditLineInstanceTitle.cs" t="Include" />
+              <e p="CreditLineInstanceTwoColumns.cs" t="Include" />
+            </e>
+          </e>
+          <e p="3_Demo" t="Include">
+            <e p="CreditsExampleScript.cs" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="credits.xml" t="Include" />
+              <e p="creditsAgileStrokes.xml" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Extra" t="Include">
           <e p="PigeonCoopToolkit" t="Include">
             <e p="__Effects (Trails) Examples" t="Include">
@@ -93,40 +116,74 @@
             </e>
           </e>
         </e>
-        <e p="GestureRecognizer" t="Include">
-          <e p="Resources" t="Include">
-            <e p="alphabet.xml" t="Include" />
-            <e p="multistroke_shapes.xml" t="Include" />
-            <e p="numbers.xml" t="Include" />
-            <e p="shapes.xml" t="Include" />
+        <e p="Game" t="Include">
+          <e p="GestureRecognizer" t="Include">
+            <e p="Resources" t="Include">
+              <e p="alphabet.xml" t="Include" />
+              <e p="multistroke_shapes.xml" t="Include" />
+              <e p="numbers.xml" t="Include" />
+              <e p="shapes.xml" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Demo" t="Include">
+                <e p="GestureCapturePoints.cs" t="Include" />
+                <e p="GestureDemoEvent.cs" t="Include" />
+                <e p="MultiStrokeCapturePoints.cs" t="Include" />
+                <e p="MultiStrokeDemoEvent.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="GestureBehaviourInspector.cs" t="Include" />
+                <e p="MultiStrokeBehaviourInspector.cs" t="Include" />
+              </e>
+              <e p="GestureRecognizer" t="Include">
+                <e p="Gesture.cs" t="Include" />
+                <e p="GestureBehaviour.cs" t="Include" />
+                <e p="GestureLibrary.cs" t="Include" />
+              </e>
+              <e p="MultiStrokeRecognizer" t="Include">
+                <e p="MultiStroke.cs" t="Include" />
+                <e p="MultiStrokeBehaviour.cs" t="Include" />
+                <e p="MultiStrokeLibrary.cs" t="Include" />
+                <e p="MultiStrokePoint.cs" t="Include" />
+              </e>
+              <e p="Utility" t="Include">
+                <e p="FileTools.cs" t="Include" />
+                <e p="Result.cs" t="Include" />
+                <e p="Utility.cs" t="Include" />
+              </e>
+            </e>
           </e>
           <e p="Scripts" t="Include">
-            <e p="Demo" t="Include">
-              <e p="GestureCapturePoints.cs" t="Include" />
-              <e p="GestureDemoEvent.cs" t="Include" />
-              <e p="MultiStrokeCapturePoints.cs" t="Include" />
-              <e p="MultiStrokeDemoEvent.cs" t="Include" />
+            <e p="CharacterController.cs" t="Include" />
+            <e p="CreditsController.cs" t="Include" />
+            <e p="DontDestroyOnLoad.cs" t="Include" />
+            <e p="GestureController.cs" t="Include" />
+            <e p="GlobalValue.cs" t="Include" />
+            <e p="MathController.cs" t="Include" />
+            <e p="MenuController.cs" t="Include" />
+            <e p="SoundManager.cs" t="Include" />
+            <e p="VisualReward.cs" t="Include" />
+          </e>
+        </e>
+        <e p="GeometryFXParticles" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="AssetsViewer.cs" t="Include" />
+            <e p="CameraRotate.cs" t="Include" />
+            <e p="ParticleAlphaBlendStroke.shader" t="Include" />
+            <e p="ParticleSimpleAlphaBlend.shader" t="Include" />
+          </e>
+        </e>
+        <e p="ParticleLights" t="Include">
+          <e p="Code" t="Include">
+            <e p="Extra" t="Include">
+              <e p="ParticleSelector.cs" t="Include" />
             </e>
-            <e p="Editor" t="Include">
-              <e p="GestureBehaviourInspector.cs" t="Include" />
-              <e p="MultiStrokeBehaviourInspector.cs" t="Include" />
-            </e>
-            <e p="GestureRecognizer" t="Include">
-              <e p="Gesture.cs" t="Include" />
-              <e p="GestureBehaviour.cs" t="Include" />
-              <e p="GestureLibrary.cs" t="Include" />
-            </e>
-            <e p="MultiStrokeRecognizer" t="Include">
-              <e p="MultiStroke.cs" t="Include" />
-              <e p="MultiStrokeBehaviour.cs" t="Include" />
-              <e p="MultiStrokeLibrary.cs" t="Include" />
-              <e p="MultiStrokePoint.cs" t="Include" />
-            </e>
-            <e p="Utility" t="Include">
-              <e p="FileTools.cs" t="Include" />
-              <e p="Result.cs" t="Include" />
-              <e p="Utility.cs" t="Include" />
-            </e>
+            <e p="ParticleLights.cs" t="Include" />
+            <e p="ParticleLightsManager.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="ParticleLightCustomInspector.cs" t="Include" />
+            <e p="ParticleLightsManagerCustomInspector.cs" t="Include" />
           </e>
         </e>
         <e p="Plugins" t="Include">
@@ -136,13 +193,53 @@
             </e>
           </e>
         </e>
-        <e p="Scripts" t="Include">
-          <e p="CharacterController.cs" t="Include" />
-          <e p="GestureController.cs" t="Include" />
-          <e p="GlobalValue.cs" t="Include" />
-          <e p="MathController.cs" t="Include" />
-          <e p="MenuController.cs" t="Include" />
-          <e p="SoundManager.cs" t="Include" />
+        <e p="RockVR" t="Include">
+          <e p="Common" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="EventDelegate.cs" t="Include" />
+              <e p="FPSDisplay.cs" t="Include" />
+              <e p="Platform.cs" t="Include" />
+              <e p="Process.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Video" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AutoRotate.cs" t="Include" />
+                <e p="VideoCaptureUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="VideoCaptureEditor.cs" t="Include" />
+              <e p="VideoCaptureMenuEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AudioCapture.cs" t="Include" />
+              <e p="Base" t="Include">
+                <e p="VideoCaptureBase.cs" t="Include" />
+                <e p="VideoCaptureCtrlBase.cs" t="Include" />
+              </e>
+              <e p="Config.cs" t="Include" />
+              <e p="Screenshot.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="Utils.cs" t="Include" />
+              </e>
+              <e p="VideoCapture.cs" t="Include" />
+              <e p="VideoCaptureCtrl.cs" t="Include" />
+              <e p="VideoPlayer.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CopyReverse.shader" t="Include" />
+              <e p="Cubemap2Equirectangular.shader" t="Include" />
+              <e p="Cubemap2EquirectangularPro.shader" t="Include" />
+              <e p="CubemapDisplayPro.shader" t="Include" />
+              <e p="CubemapToCylindrical.shader" t="Include" />
+              <e p="DownsamplePro.shader" t="Include" />
+              <e p="FlippingTexture.shader" t="Include" />
+              <e p="Stereoscopic.shader" t="Include" />
+            </e>
+          </e>
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
