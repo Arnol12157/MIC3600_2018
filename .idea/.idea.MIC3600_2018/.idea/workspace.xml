@@ -2,259 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21aca47-1ead-429e-ad85-9f4485787865" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MIC3600_2018/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Character.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Character/CharacterController.controller" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Character/CharacterController.controller.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/FondoAnimado.anim" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/FondoAnimado.anim.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/hand-making-number-two.anim" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/hand-making-number-two.anim.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/hand-number-2.controller" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/hand-number-2.controller.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/imgFondo2.controller" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/imgFondo2.controller.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/imgManito.controller" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/imgManito.controller.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/manito.anim" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/manito.anim.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/palamecia titling.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/palamecia titling.ttf.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Materials.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Materials/LineMaterial.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Materials/LineMaterial.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Prefabs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Prefabs/GestureRecognizer.prefab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Prefabs/GestureRecognizer.prefab.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Prefabs/MultiStrokeRecognizer.prefab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Prefabs/MultiStrokeRecognizer.prefab.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/alphabet.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/alphabet.xml.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/multistroke_shapes.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/multistroke_shapes.xml.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/shapes.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Resources/shapes.xml.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/Gesture_Demo_Event.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/Gesture_Demo_Event.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/Gesture_Demo_Event_Limit_Drawing.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/Gesture_Demo_Event_Limit_Drawing.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/Gesture_Demo_Script.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/Gesture_Demo_Script.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Event.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Event.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Event_Limit_Drawing.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Event_Limit_Drawing.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Script.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Script.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureCapturePoints.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureCapturePoints.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureDemoEvent.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureDemoEvent.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/MultiStrokeCapturePoints.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/MultiStrokeCapturePoints.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/MultiStrokeDemoEvent.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/MultiStrokeDemoEvent.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Editor.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Editor/GestureBehaviourInspector.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Editor/GestureBehaviourInspector.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Editor/MultiStrokeBehaviourInspector.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Editor/MultiStrokeBehaviourInspector.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer/Gesture.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer/Gesture.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer/GestureBehaviour.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer/GestureBehaviour.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer/GestureLibrary.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/GestureRecognizer/GestureLibrary.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStroke.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStroke.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStrokeBehaviour.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStrokeBehaviour.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStrokeLibrary.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStrokeLibrary.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStrokePoint.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/MultiStrokeRecognizer/MultiStrokePoint.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility/FileTools.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility/FileTools.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility/Result.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility/Result.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility/Utility.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Utility/Utility.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/logo.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/two.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/two.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/CharacterSteps.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/CharacterSteps.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/TexturaFondo.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/TexturaFondo.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/imgOvalo.controller" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/imgOvalo.controller.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/ovalo.anim" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/ovalo.anim.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/Madera.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/Madera.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/Metal1.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/Metal1.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/Metal2.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/Metal2.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/torch1.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Antorcha/torch1.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero/Piedra.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero/Piedra.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero/Piedra2.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero/Piedra2.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero/brazier.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Brasero/brazier.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito/Metal1.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito/Metal1.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito/Metal2.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito/Metal2.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito/carrito.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Carrito/carrito.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/DwarfF.fbx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/DwarfF.fbx.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/Idle.fbx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/Idle.fbx.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/Lifting.fbx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/Lifting.fbx.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/Swagger Walk.fbx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character/Swagger Walk.fbx.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2/cartoon2.fbx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2/cartoon2.fbx.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2/cartoon2_cartoon_AlbedoTransparency.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2/cartoon2_cartoon_AlbedoTransparency.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2/cartoon2_cartoon_SpecularSmoothness.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Character2/cartoon2_cartoon_SpecularSmoothness.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems1.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems1.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems2.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems2.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems3.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems3.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems4.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems4.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems5.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/Gems5.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/gems01.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cristal/gems01.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/Cueva.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/Cueva.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/cueva03.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/cueva03.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/cueva03.blend1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cueva/cueva03.blend1.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder01.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder01.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder02.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder02.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder03.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder03.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder04.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder04.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder05.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder05.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder06.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder06.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder07.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder07.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder08.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/Boulder08.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/boulder02.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Peñascos/boulder02.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota/Metal.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota/Metal.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota/Metal2.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota/Metal2.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota/pickaxe.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Picota/pickaxe.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/RielCurva.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/RielCurva/rieles2.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/RielCurva/rieles2.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio/sculpt_tio5.blend" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio/sculpt_tio5.blend.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio/tio.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio/tio.mat.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2/tio_diablo.fbx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2/tio_diablo.fbx.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2/tio_diablo_tio_textura_BaseColor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2/tio_diablo_tio_textura_BaseColor.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2/tio_diablo_tio_textura_OcclusionRoughnessMetallic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tio2/tio_diablo_tio_textura_OcclusionRoughnessMetallic.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Point light.prefab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Point light.prefab.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/imgManito.prefab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/imgManito.prefab.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EscenaPablo.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EscenaPablo.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EscenaPabloMenu.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EscenaPabloMenu.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1.unity.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1/NavMesh.asset" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene1/NavMesh.asset.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GestureController.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GestureController.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GlobalValue.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GlobalValue.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MathController.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MathController.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuController.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sounds.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sounds/bg-sound.mp3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sounds/bg-sound.mp3.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI-4_2048x2048.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI-4_2048x2048.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI-4_2048x2048old.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI-4_2048x2048old.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI-5_4096x4096.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI-5_4096x4096.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/footstep.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/footstep.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/fondo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/fondo.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/fondo3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/fondo3.png.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Scene1.unity" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Scene1.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Tests.unity" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Tests.unity" />
+      <change beforePath="$PROJECT_DIR$/VideoCaptureLib_Log.txt" afterPath="$PROJECT_DIR$/VideoCaptureLib_Log.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -268,7 +19,7 @@
       <file leaf-file-name="MathController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/MathController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1208">
+            <state relative-caret-position="300">
               <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="27" selection-end-column="42" />
               <folding>
                 <marker date="1538363344654" expanded="false" signature="6:135" ph="..." />
@@ -339,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MenuController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/MenuController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="480">
               <caret line="35" column="45" lean-forward="false" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
               <folding>
                 <marker date="1538511479110" expanded="false" signature="6:113" ph="..." />
@@ -357,10 +108,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CharacterController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/CharacterController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="61" column="68" lean-forward="true" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
+              <folding>
+                <marker date="1537910820444" expanded="false" signature="6:114" ph="..." />
+                <marker date="1537910820444" expanded="true" signature="164:1641" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="467:587" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="645:1417" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="676:863" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="1003:1062" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="1095:1217" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="1321:1411" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="1449:1523" ph="{...}" />
+                <marker date="1537910820444" expanded="true" signature="1558:1639" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CreditsController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/CreditsController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
+            <state relative-caret-position="480">
               <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding>
                 <marker date="1538511300262" expanded="false" signature="6:78" ph="..." />
@@ -379,7 +151,7 @@
       <file leaf-file-name="Credits.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Credits/1_Scripts/Credits.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="1350">
               <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
               <folding>
                 <marker date="1538511237639" expanded="false" signature="6:208" ph="..." />
@@ -472,6 +244,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/VisualReward.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/CreditsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -517,7 +290,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -525,47 +297,13 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="MIC3600_2018 (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MIC3600_2018 (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MIC3600_2018 (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MIC3600_2018 (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Game" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MIC3600_2018 (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Game" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GestureRecognizer" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="MIC3600_2018 (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Game" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GestureRecognizer" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Resources" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -606,11 +344,12 @@
       <workItem from="1536785437728" duration="672000" />
       <workItem from="1537907040277" duration="3779000" />
       <workItem from="1538361233436" duration="7534000" />
+      <workItem from="1538621954560" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23281000" />
+    <option name="totallyTimeSpent" value="23377000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,156 +398,195 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/MathController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <marker date="1538363344654" expanded="false" signature="6:135" ph="..." />
+            <marker date="1538363344654" expanded="true" signature="181:3519" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="210:272" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="295:326" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1011:1905" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1076:1149" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1196:1273" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1318:1391" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1441:1514" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1571:1644" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1703:1776" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1829:1902" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="1959:3069" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="2129:2923" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="2158:2432" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="2337:2397" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="2707:2919" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="2970:3066" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="3098:3431" ph="{...}" />
+            <marker date="1538363344654" expanded="true" signature="3473:3517" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="115" column="45" lean-forward="false" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="54" lean-forward="false" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="54" lean-forward="false" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/SoundManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1533354131411" expanded="false" signature="6:44" ph="..." />
+            <marker date="1533354131411" expanded="true" signature="45:166" ph="/* This is SoundManager ... */" />
+            <marker date="1533354131411" expanded="true" signature="209:2472" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="771:864" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="897:984" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1030:1216" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1232:1411" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1456:1506" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1565:1623" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1670:1724" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1785:1847" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1909:2147" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="1931:2011" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="2043:2094" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="2223:2470" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="2245:2325" ph="{...}" />
+            <marker date="1533354131411" expanded="true" signature="2357:2408" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml">
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/DontDestroyOnLoad.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="662" column="11" lean-forward="false" selection-start-line="662" selection-start-column="11" selection-end-line="662" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <marker date="1538436169090" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538436169090" expanded="true" signature="127:278" ph="{...}" />
+            <marker date="1538436169090" expanded="true" signature="177:214" ph="{...}" />
+            <marker date="1538436169090" expanded="true" signature="269:276" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureDemoEvent.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/CreditsController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="480">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <marker date="1538511300262" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538511300262" expanded="true" signature="126:1203" ph="{...}" />
+            <marker date="1538511300262" expanded="true" signature="175:729" ph="{...}" />
+            <marker date="1538511300262" expanded="true" signature="181:523" ph="/* Starting manually the credit roll if &quot;Play On Awake&quot; is false: ... */" />
+            <marker date="1538511300262" expanded="true" signature="560:726" ph="{...}" />
+            <marker date="1538511300262" expanded="true" signature="784:1025" ph="{...}" />
+            <marker date="1538511300262" expanded="true" signature="856:1022" ph="{...}" />
+            <marker date="1538511300262" expanded="true" signature="1057:1201" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Credits/1_Scripts/Credits.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <marker date="1538511237639" expanded="false" signature="6:208" ph="..." />
+            <marker date="1538511237639" expanded="true" signature="210:260" ph="/// Credit line type. ... " />
+            <marker date="1538511237639" expanded="true" signature="283:343" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="345:417" ph="/// Represents a single line of the credits ... " />
+            <marker date="1538511237639" expanded="true" signature="441:1265" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="591:655" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="738:981" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="753:978" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="1028:1263" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="1267:1364" ph="/// Main credits class. Get the instance with Credits.getInstance(). ... " />
+            <marker date="1538511237639" expanded="true" signature="1401:4891" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2116:2140" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2163:2204" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2233:3246" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2251:3243" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2564:3166" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2700:2903" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="2942:3101" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="3272:4776" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="3297:4773" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="3470:3693" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="3735:3953" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="4002:4234" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="4281:4509" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="4551:4769" ph="{...}" />
+            <marker date="1538511237639" expanded="true" signature="4808:4889" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/GlobalValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <marker date="1534124844844" expanded="true" signature="6:58" ph="..." />
+            <marker date="1534124844844" expanded="true" signature="101:1532" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="741:900" ph="/* public static bool isRestart = false; ... */" />
+            <marker date="1534124844844" expanded="true" signature="915:1321" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="959:991" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="1028:1093" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="1100:1153" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="1193:1258" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="1265:1318" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="1352:1530" ph="{...}" />
+            <marker date="1534124844844" expanded="true" signature="1361:1480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/VisualReward.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1538362789126" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538362789126" expanded="true" signature="121:355" ph="{...}" />
+            <marker date="1538362789126" expanded="true" signature="203:210" ph="{...}" />
+            <marker date="1538362789126" expanded="true" signature="265:272" ph="{...}" />
+            <marker date="1538362789126" expanded="true" signature="322:353" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/MenuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="45" lean-forward="false" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <marker date="1538511479110" expanded="false" signature="6:113" ph="..." />
+            <marker date="1538511479110" expanded="true" signature="158:846" ph="{...}" />
+            <marker date="1538511479110" expanded="true" signature="457:464" ph="{...}" />
+            <marker date="1538511479110" expanded="true" signature="519:526" ph="{...}" />
+            <marker date="1538511479110" expanded="true" signature="554:602" ph="{...}" />
+            <marker date="1538511479110" expanded="true" signature="630:742" ph="{...}" />
+            <marker date="1538511479110" expanded="true" signature="772:844" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GestureRecognizer/Resources/numbers.xml" />
+    <entry file="file://$PROJECT_DIR$/Assets/GestureRecognizer/Scripts/Demo/GestureDemoEvent.cs" />
     <entry file="file://$PROJECT_DIR$/../AventurasPio/Assets/Game/Scripts/PlayFabConnection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -816,46 +594,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="115" column="45" lean-forward="false" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GestureController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/VisualReward.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -874,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5432">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,7 +655,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/MathController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1208">
+        <state relative-caret-position="300">
           <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="27" selection-end-column="42" />
           <folding>
             <marker date="1538363344654" expanded="false" signature="6:135" ph="..." />
@@ -945,13 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="5" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <marker date="1427997093000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1427997093000" expanded="true" signature="95:670" ph="{...}" />
-            <marker date="1427997093000" expanded="true" signature="111:592" ph="{...}" />
-            <marker date="1427997093000" expanded="true" signature="117:459" ph="/* Starting manually the credit roll if &quot;Play On Awake&quot; is false: ... */" />
-            <marker date="1427997093000" expanded="true" signature="624:668" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -990,7 +724,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/CreditsController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
+        <state relative-caret-position="480">
           <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <marker date="1538511300262" expanded="false" signature="6:78" ph="..." />
@@ -1007,7 +741,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Credits/1_Scripts/Credits.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="1350">
           <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
           <folding>
             <marker date="1538511237639" expanded="false" signature="6:208" ph="..." />
@@ -1042,7 +776,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/MenuController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="480">
           <caret line="35" column="45" lean-forward="false" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
           <folding>
             <marker date="1538511479110" expanded="false" signature="6:113" ph="..." />
@@ -1052,6 +786,25 @@
             <marker date="1538511479110" expanded="true" signature="554:602" ph="{...}" />
             <marker date="1538511479110" expanded="true" signature="630:742" ph="{...}" />
             <marker date="1538511479110" expanded="true" signature="772:844" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Scripts/CharacterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="61" column="68" lean-forward="true" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
+          <folding>
+            <marker date="1537910820444" expanded="false" signature="6:114" ph="..." />
+            <marker date="1537910820444" expanded="true" signature="164:1641" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="467:587" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="645:1417" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="676:863" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="1003:1062" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="1095:1217" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="1321:1411" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="1449:1523" ph="{...}" />
+            <marker date="1537910820444" expanded="true" signature="1558:1639" ph="{...}" />
           </folding>
         </state>
       </provider>
