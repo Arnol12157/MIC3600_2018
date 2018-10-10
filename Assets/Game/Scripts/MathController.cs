@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.Remoting.Channels;
 using EZCameraShake;
 using UnityEngine;
 using UnityEngine.UI;
@@ -45,10 +46,14 @@ public class MathController : MonoBehaviour {
 	private float auxDelay;
 
 	public bool isFirstOperation = true;
+	public GameObject canvasOperation;
+
+	public CharacterController PlayerCharacterController;
 	
 	// Use this for initialization
 	void Start ()
 	{
+		canvasOperation.SetActive(false);
 		auxDelay = delay;
 		if (currentDificulty == Dificulty.easy)
 		{
@@ -107,24 +112,31 @@ public class MathController : MonoBehaviour {
 			auxDelay -= Time.deltaTime;
 			if (auxDelay <= 0)
 			{
-				Debug.Log("score");
+				PlayerCharacterController.bGoToTarget = true;
 				visualRewardNumber.SetActive(false);
 				_gestureController.gestureName = "";
 				_gestureController.messageArea.text = "?";
 				getAditionOperation();
 				auxDelay = delay;
+				GameObject.Find("LevelController").GetComponent<LevelController>().currentScore++;
 			}
 		} else if (_gestureController.gestureName != "")
 		{
 			CameraShaker.Instance.ShakeOnce(3, 5, 2, 2);
+			GameObject.Find("RewardController").GetComponent<VisualReward>().showDemolitionParticles();
+			secondValueText.text = "?";
 			_gestureController.gestureName = "";
 		}
 	}
 
-	void getAditionOperation()
+	public void getAditionOperation()
 	{
 		int firstIntValue = UnityEngine.Random.Range(minValue, maxValue + 1);
 		int secondIntValue = UnityEngine.Random.Range(minValue, maxValue + 1);
+		if (secondIntValue == 1)
+		{
+			secondIntValue++;
+		}
 		int resultIntValue = firstIntValue + secondIntValue;
 		firstValue = firstIntValue.ToString();
 		secondValue = secondIntValue.ToString();
@@ -135,5 +147,10 @@ public class MathController : MonoBehaviour {
 	{
 		minValue = _min;
 		maxValue = _max;
+	}
+
+	public void enableCanvasOperation()
+	{
+		canvasOperation.SetActive(true);
 	}
 }

@@ -28,7 +28,7 @@ namespace GestureRecognizer {
             this.libraryName = libraryName;
             this.libraryFilename = libraryName + ".xml";
             this.persistentLibraryPath = Path.Combine(Application.persistentDataPath, libraryFilename);
-            this.resourcesPath = Path.Combine(Path.Combine(Application.dataPath, "Resources"), libraryFilename);
+            this.resourcesPath = Path.Combine(Path.Combine(Application.dataPath, "Game/GestureRecognizer/Resources"), libraryFilename);
 
             CopyToPersistentPath(forceCopy);
             LoadLibrary();

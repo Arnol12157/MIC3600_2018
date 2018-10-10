@@ -7,6 +7,46 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="CameraPath3" t="Include">
+          <e p="3.1x Upgrade readme.txt" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="CameraPathAnimatorEditor.cs" t="Include" />
+            <e p="CameraPathEditor.cs" t="Include" />
+            <e p="CameraPathEditorInspectorGUI.cs" t="Include" />
+            <e p="CameraPathEditorSceneGUI.cs" t="Include" />
+            <e p="CameraPathMenu.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="CameraPath.cs" t="Include" />
+            <e p="CameraPathAnimator.cs" t="Include" />
+            <e p="CameraPathControlPoint.cs" t="Include" />
+            <e p="CameraPathDelay.cs" t="Include" />
+            <e p="CameraPathDelayList.cs" t="Include" />
+            <e p="CameraPathEvent.cs" t="Include" />
+            <e p="CameraPathEventList.cs" t="Include" />
+            <e p="CameraPathFOV.cs" t="Include" />
+            <e p="CameraPathFOVList.cs" t="Include" />
+            <e p="CameraPathOrientation.cs" t="Include" />
+            <e p="CameraPathOrientationList.cs" t="Include" />
+            <e p="CameraPathPoint.cs" t="Include" />
+            <e p="CameraPathPointList.cs" t="Include" />
+            <e p="CameraPathSpeed.cs" t="Include" />
+            <e p="CameraPathSpeedList.cs" t="Include" />
+            <e p="CameraPathTilt.cs" t="Include" />
+            <e p="CameraPathTiltList.cs" t="Include" />
+            <e p="Enum" t="Include">
+              <e p="CameraPathColours.cs" t="Include" />
+            </e>
+            <e p="Util" t="Include">
+              <e p="CameraPathPreviewSupport.cs" t="Include" />
+              <e p="CPMath.cs" t="Include" />
+              <e p="UnityVersionWrapper.cs" t="Include" />
+              <e p="XMLVariableConverter.cs" t="Include" />
+            </e>
+          </e>
+          <e p="versionHistory.txt" t="Include" />
+        </e>
         <e p="Credits" t="Include">
           <e p="1_Scripts" t="Include">
             <e p="Credits.cs" t="Include" />
@@ -120,6 +160,7 @@
           <e p="GestureRecognizer" t="Include">
             <e p="Resources" t="Include">
               <e p="alphabet.xml" t="Include" />
+              <e p="mainmenu.xml" t="Include" />
               <e p="multistroke_shapes.xml" t="Include" />
               <e p="numbers.xml" t="Include" />
               <e p="shapes.xml" t="Include" />
@@ -154,11 +195,14 @@
             </e>
           </e>
           <e p="Scripts" t="Include">
+            <e p="CameraController.cs" t="Include" />
             <e p="CharacterController.cs" t="Include" />
             <e p="CreditsController.cs" t="Include" />
             <e p="DontDestroyOnLoad.cs" t="Include" />
             <e p="GestureController.cs" t="Include" />
+            <e p="GestureControllerMainMenu.cs" t="Include" />
             <e p="GlobalValue.cs" t="Include" />
+            <e p="LevelController.cs" t="Include" />
             <e p="MathController.cs" t="Include" />
             <e p="MenuController.cs" t="Include" />
             <e p="SoundManager.cs" t="Include" />
